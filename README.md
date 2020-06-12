@@ -1,6 +1,6 @@
 # Photo rotation change
 
-By using HOG + SVM and 「homography transform」, chnge angle of object in images just like below.
+By using HOG + SVM and 「homography transform」, change object angle in image just like below.
 
 <b>target query image</b>
 
