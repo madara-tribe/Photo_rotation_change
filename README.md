@@ -3,7 +3,7 @@
 By using HOG + SVM and 「homography transform」, change object angle in image just like below.
 
 
-# Step
+# Step <hr>
 
 ## 1.put similar images in DB
 
@@ -26,6 +26,8 @@ I added some tecs to homography transform, resulting in object rotatin just like
 <b>ratation image</b>
 
 ![rotation_modified](https://user-images.githubusercontent.com/48679574/84499925-87471d00-acee-11ea-8e79-0cbfd6a6b251.png)
+
+
 
 
 
