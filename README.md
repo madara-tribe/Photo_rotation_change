@@ -16,7 +16,7 @@ By using HOG + SVM and 「homography transform」, chnge angle of object in imag
 # Opencv useful method <hr>
 
 ## original image
-![original](<img src="https://user-images.githubusercontent.com/48679574/84500035-b3629e00-acee-11ea-9962-dee0ed03f10d.jpg" width=250>)
+![original](<img src="https://user-images.githubusercontent.com/48679574/84500035-b3629e00-acee-11ea-9962-dee0ed03f10d.jpg" width="250px">)
 
 
 
