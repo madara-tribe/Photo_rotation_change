@@ -25,11 +25,16 @@ By using HOG + SVM and 「homography transform」, chnge angle of object in imag
 
 
 ## Color Reduce
+<img src="https://user-images.githubusercontent.com/48679574/84500694-07ba4d80-acf0-11ea-9650-6d9a7758368c.png" width="250px">
 
 ## masking
+<img src="https://user-images.githubusercontent.com/48679574/84500701-09841100-acf0-11ea-9f78-79d0cc1b9e3c.png" width="250px">
 
 ## Regular Grid Crop
+<img src="https://user-images.githubusercontent.com/48679574/84500720-1143b580-acf0-11ea-8021-32ec222827fe.png" width="250px">
 
 ## Saliency Detection
 
 ## Segmentation
+
+## Image Similarity
