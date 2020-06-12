@@ -34,7 +34,11 @@ By using HOG + SVM and 「homography transform」, chnge angle of object in imag
 <img src="https://user-images.githubusercontent.com/48679574/84500720-1143b580-acf0-11ea-8021-32ec222827fe.png" width="250px">
 
 ## Saliency Detection
+<img src="https://user-images.githubusercontent.com/48679574/84500898-71d2f280-acf0-11ea-91d9-a21ff8eb90c6.png" width="250px">
 
 ## Segmentation
+<img src="https://user-images.githubusercontent.com/48679574/84500900-739cb600-acf0-11ea-90b5-05dd83bdfa2a.png" width="250px">
 
 ## Image Similarity
+![image_similarity](https://user-images.githubusercontent.com/48679574/84500901-75667980-acf0-11ea-9246-248618f81f61.png)
+
