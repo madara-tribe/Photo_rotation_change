@@ -16,13 +16,12 @@ By using HOG + SVM and 「homography transform」, chnge angle of object in imag
 # Opencv useful method <hr>
 
 ## original image
-
-
+<img src="https://user-images.githubusercontent.com/48679574/84500035-b3629e00-acee-11ea-9962-dee0ed03f10d.jpg" width="250px">
 
 
 ## Binary Threshold
 
-![Binary_Threshold](https://user-images.githubusercontent.com/48679574/84500037-b52c6180-acee-11ea-8ee6-e87d27226da2.png)
+<img src="https://user-images.githubusercontent.com/48679574/84500037-b52c6180-acee-11ea-8ee6-e87d27226da2.png" width="250px">
 
 
 ## Color Reduce
