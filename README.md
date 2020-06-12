@@ -2,6 +2,22 @@
 
 By using HOG + SVM and 「homography transform」, change object angle in image just like below.
 
+
+# Step
+
+## 1.put similar images in DB
+
+Put similar images into "DB" folder, at least 5 images.
+
+## 2.Train SVM with HOG
+
+Train SVM with HOG and create trained model to change object rotation
+
+## 3.Change rotaion with homography transform
+
+Feature descriptor(such as HOG, SIFT, AKAZE) include [homography transform](https://www.learnopencv.com/homography-examples-using-opencv-python-c/). 
+I added some tecs to homography transform, resulting in object rotatin just like below.
+
 <b>target query image</b>
 
 ![query1](https://user-images.githubusercontent.com/48679574/84499909-80b8a580-acee-11ea-9a26-bec0b77f6559.jpeg)
